@@ -7,5 +7,10 @@ public class Main {
         FactorX.Sun=1;
         FactorX.Moon=3;
         FactorX.Planets=2;
+
+        SUN Freon = new SUN();
+        Freon.Color="500kj";
+        Freon.size = "7000km";
+        Freon.Temp="40000c";
     }
 }
